@@ -1,0 +1,31 @@
+League,Type,Season,Team/Opponent,Champion,Franchise,Team,FGM,FGA,FG%,3FGM,3FGA,3FG%,FTM,FTA,FT%,OFF,DEF,REB,AST,STL,BLK,TO,PF,PTS
+NBA,Regular Season,(2020-21),Team Stats,,Atlanta Hawks,ATL,40.8,87.2,0.47,12.4,33.4,0.37,19.7,24.2,0.81,10.6,35.1,45.6,24.1,7,4.8,13.2,19.3,113.7
+NBA,Regular Season,(2020-21),Team Stats,,Boston Celtics,BOS,41.5,88.9,0.47,13.6,36.4,0.37,16.1,20.8,0.78,10.6,33.6,44.3,23.5,7.7,5.3,14.1,20.4,112.6
+NBA,Regular Season,(2020-21),Team Stats,,Brooklyn Nets,BRO,43.1,87.3,0.49,14.2,36.1,0.39,18.1,22.5,0.8,8.9,35.5,44.4,26.8,6.7,5.3,13.5,19,118.6
+NBA,Regular Season,(2020-21),Team Stats,,Charlotte Hornets,CHA,39.9,87.8,0.45,13.7,37,0.37,15.9,20.9,0.76,10.6,33.2,43.8,26.8,7.8,4.8,14.8,18,109.5
+NBA,Regular Season,(2020-21),Team Stats,,Chicago Bulls,CHI,42.2,88.6,0.48,12.6,34,0.37,13.8,17.5,0.79,9.6,35.3,45,26.8,6.7,4.2,15.1,18.9,110.7
+NBA,Regular Season,(2020-21),Team Stats,,Cleveland Cavaliers,CLE,38.6,85.8,0.45,10,29.7,0.34,16.7,22.4,0.74,10.4,32.3,42.8,23.8,7.8,4.5,15.5,18.2,103.8
+NBA,Regular Season,(2020-21),Team Stats,,Dallas Mavericks,DAL,41.1,87.3,0.47,13.8,38.1,0.36,16.5,21.2,0.78,9.1,34.2,43.3,22.9,6.3,4.3,12.1,19.4,112.4
+NBA,Regular Season,(2020-21),Team Stats,,Denver Nuggets,DEN,43.3,89.2,0.48,12.9,34.2,0.38,15.7,19.5,0.8,10.5,33.9,44.4,26.8,8.1,4.5,13.5,19.1,115.1
+NBA,Regular Season,(2020-21),Team Stats,,Detroit Pistons,DET,38.7,85.6,0.45,11.6,32.9,0.35,17.8,23.4,0.76,9.6,33.1,42.7,24.2,7.4,5.2,14.9,20.5,106.6
+NBA,Regular Season,(2020-21),Team Stats,,Golden State Warriors,GSW,41.3,88.2,0.47,14.6,38.7,0.38,16.6,21.1,0.78,8,35.1,43,27.7,8.2,4.8,15,21.2,113.7
+NBA,Regular Season,(2020-21),Team Stats,,Houston Rockets,HOU,39.3,88.5,0.44,13.8,40.6,0.34,16.5,22.3,0.74,9.3,33.3,42.6,23.6,7.6,5,14.7,19.5,108.8
+NBA,Regular Season,(2020-21),Team Stats,,Indiana Pacers,IND,43.3,91.2,0.47,12.3,34,0.36,16.4,20.7,0.79,9,33.7,42.7,27.4,8.5,6.4,13.5,20.2,115.3
+NBA,Regular Season,(2020-21),Team Stats,,Los Angeles Clippers,LAC,41.8,86.7,0.48,14.3,34.7,0.41,16.2,19.3,0.84,9.4,34.7,44.2,24.4,7.1,4.1,13.2,19.2,114
+NBA,Regular Season,(2020-21),Team Stats,,Los Angeles Lakers,LAL,40.6,86.1,0.47,11.1,31.2,0.35,17.2,23.3,0.74,9.7,34.6,44.2,24.7,7.8,5.4,15.2,19.1,109.5
+NBA,Regular Season,(2020-21),Team Stats,,Memphis Grizzlies,MEM,42.8,91.8,0.47,11.2,31.4,0.36,16.4,21.3,0.77,11.2,35.3,46.5,26.9,9.1,5.1,13.3,18.7,113.3
+NBA,Regular Season,(2020-21),Team Stats,,Miami Heat,MIA,39.2,83.7,0.47,12.9,36.2,0.36,16.7,21.1,0.79,8,33.5,41.5,26.3,7.9,4,14.1,18.9,108.1
+NBA,Regular Season,(2020-21),Team Stats,,Milwaukee Bucks,MIL,44.7,91.8,0.49,14.4,37.1,0.39,16.2,21.4,0.76,10.3,37.8,48.1,25.5,8.1,4.6,13.8,17.3,120.1
+NBA,Regular Season,(2020-21),Team Stats,,Minnesota Timberwolves,MIN,40.7,90.9,0.45,13.1,37.6,0.35,17.6,23.1,0.76,10.5,33,43.5,25.6,8.8,5.5,14.3,20.9,112.1
+NBA,Regular Season,(2020-21),Team Stats,,New Orleans Pelicans,NOP,42.5,89.1,0.48,10.6,30.4,0.35,19,26.1,0.73,11.7,35.7,47.4,26,7.6,4.4,14.6,18,114.6
+NBA,Regular Season,(2020-21),Team Stats,,New York Knicks,NYK,39.4,86.5,0.46,11.8,30,0.39,16.4,20.9,0.78,9.7,35.5,45.1,21.4,7,5.1,12.9,20.5,107
+NBA,Regular Season,(2020-21),Team Stats,,Oklahoma City Thunder,OCT,38.8,88,0.44,11.9,35.1,0.34,15.5,21.3,0.72,9.9,35.7,45.6,22.1,7,4.4,16.1,18.1,105
+NBA,Regular Season,(2020-21),Team Stats,,Orlando Magic,ORL,38.3,89.2,0.43,10.9,31.8,0.34,16.6,21.4,0.78,10.4,35.1,45.4,21.8,6.9,4.4,12.8,17.2,104
+NBA,Regular Season,(2020-21),Team Stats,,Philadelphia 76ers,PHI,41.4,86.9,0.48,11.3,30.1,0.37,19.6,25.5,0.77,10,35,45.1,23.7,9.1,6.2,14.4,20.2,113.6
+NBA,Regular Season,(2020-21),Team Stats,,Phoenix Suns,PHO,43.3,88.3,0.49,13.1,34.6,0.38,15.6,18.7,0.83,8.8,34.2,42.9,26.9,7.2,4.3,12.5,19.1,115.3
+NBA,Regular Season,(2020-21),Team Stats,,Portland Trail Blazers,POR,41.3,91.1,0.45,15.7,40.8,0.39,17.8,21.6,0.82,10.6,33.9,44.5,21.3,6.9,5,11.1,18.9,116.1
+NBA,Regular Season,(2020-21),Team Stats,,Sacramento Kings,SAC,42.6,88.6,0.48,12.1,33.3,0.36,16.4,22,0.75,9.4,32,41.4,25.5,7.5,5,13.4,19.4,113.7
+NBA,Regular Season,(2020-21),Team Stats,,San Antonio Spurs,SAS,41.9,90.5,0.46,9.9,28.4,0.35,17.4,22,0.79,9.3,34.6,43.9,24.4,7,5.1,11.4,18,111.1
+NBA,Regular Season,(2020-21),Team Stats,,Toronto Raptors,TOR,39.7,88.7,0.45,14.5,39.3,0.37,17.4,21.3,0.82,9.4,32.1,41.6,24.1,8.6,5.4,13.2,21.2,111.3
+NBA,Regular Season,(2020-21),Team Stats,,Utah Jazz,UTA,41.3,88.1,0.47,16.7,43,0.39,17.2,21.5,0.8,10.6,37.6,48.3,23.7,6.6,5.2,14.2,18.5,116.4
+NBA,Regular Season,(2020-21),Team Stats,,Washington Wizards,WAS,43.2,90.9,0.47,10.2,29,0.35,20.1,26.2,0.77,9.7,35.5,45.2,25.5,7.3,4.1,14.4,21.6,116.6
